@@ -1,3 +1,9 @@
 [submodule "aether-mail"]
 	path = aether-mail
 	url = https://github.com/skygenesisenterprise/aether-mail
+[submodule "aether-meet"]
+	path = aether-meet
+	url = https://github.com/skygenesisenterprise/aether-meet
+[submodule "aether-search"]
+	path = aether-search
+	url = https://github.com/skygenesisenterprise/aether-search
